@@ -32,3 +32,5 @@ cd Sendec.git
 java -jar bfg.jar --replace-text passwords.txt
 git reflog expire --expire=now --all && git gc --prune=now --aggressive
 git push
+## Live Demo
+🚀 [Try Sendec here](https://creatoross.github.io/Sendec/)
